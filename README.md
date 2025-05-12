@@ -46,7 +46,6 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  ## 📊 GitHub Activity
 
 [![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=felkj&bg_color=00000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/felkj/github-readme-activity-graph)
 
