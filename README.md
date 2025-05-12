@@ -58,13 +58,13 @@
 <div align="center">
   <div align="center">
 
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=felkj&count_private=true&theme=github" alt="streak stats"/>
+   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=felkj&count_private=true&theme=github-dark&hide_border=true&background=00000000" alt="streak stats"/>
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=felkj&count_private=true&show_icons=true&theme=github&rank_icon=github" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=felkj&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&bg_color=00000000" alt="readme stats" />
   
   <br/>
   
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felkj&layout=compact&langs_count=8&theme=github" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felkj&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" alt="top langs" />
 
 </div>
 
