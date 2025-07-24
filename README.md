@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,spring,figma,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,spring,figma,git,github,vscode,C#,.NET" />
 </div>
 
 <br/>
