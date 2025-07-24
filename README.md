@@ -16,7 +16,7 @@
 
 💬 Fique à vontade para me chamar sobre **Angular, TypeScript, Java, Spring ou qualquer outro assunto que envolva programação!**
 
-⚡ Curiosidade: **Adoro games com boas narrativas — como The Last of Us, Red Dead Redemption 2 e Cyberpunk 2077 🎮**
+⚡ Curiosidade: **Adoro games com boas narrativas — como The Last of Us, Death Stranding, Red Dead Redemption 2 e Cyberpunk 2077 🎮**
 
 </div>
  
@@ -60,7 +60,7 @@
 <div align="center">
   <div align="center">
 
-   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=felkj&count_private=true&theme=github-dark&hide_border=true&background=00000000" alt="streak stats"/>
+
   
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=felkj&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&bg_color=00000000" alt="readme stats" />
   
